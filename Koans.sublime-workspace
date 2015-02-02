@@ -1,0 +1,426 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"scalene",
+				"scalene"
+			],
+			[
+				"c",
+				"c"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"ssror",
+				"Set Syntax: Ruby on Rails"
+			],
+			[
+				"ssruby",
+				"Set Syntax: Ruby on Rails"
+			],
+			[
+				"sshtml",
+				"Set Syntax: HTML"
+			]
+		],
+		"width": 530.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/Lag0s/src/koans"
+	],
+	"file_history":
+	[
+		"/Users/Lag0s/src/koans/about_proxy_object_project.rb",
+		"/Users/Lag0s/src/koans/about_to_str.rb",
+		"/Users/Lag0s/src/koans/triangle.rb",
+		"/Users/Lag0s/src/koans/path_to_enlightenment.rb",
+		"/Users/Lag0s/src/koans/about_message_passing.rb",
+		"/Users/Lag0s/src/koans/about_methods.rb",
+		"/Users/Lag0s/src/koans/about_class_methods.rb",
+		"/Users/Lag0s/src/koans/about_classes.rb",
+		"/Users/Lag0s/src/koans/about_scope.rb",
+		"/Users/Lag0s/src/koans/about_scoring_project.rb",
+		"/Users/Lag0s/src/koans/about_modules.rb",
+		"/Users/Lag0s/src/koans/about_inheritance.rb",
+		"/Users/Lag0s/src/koans/about_iteration.rb",
+		"/Users/Lag0s/src/koans/about_dice_project.rb",
+		"/Users/Lag0s/src/koans/about_open_classes.rb",
+		"/Users/Lag0s/src/koans/about_objects.rb",
+		"/Users/Lag0s/src/koans/about_control_statements.rb",
+		"/Users/Lag0s/src/koans/about_sandwich_code.rb",
+		"/Users/Lag0s/src/koans/about_symbols.rb",
+		"/Users/Lag0s/src/koans/about_arrays.rb",
+		"/Users/Lag0s/src/koans/about_blocks.rb",
+		"/Users/Lag0s/src/koans/example_file.txt",
+		"/Users/Lag0s/src/koans/about_exceptions.rb",
+		"/Users/Lag0s/src/koans/about_triangle_project_2.rb",
+		"/Users/Lag0s/src/koans/about_triangle_project.rb",
+		"/Users/Lag0s/src/koans/about_extra_credit.rb",
+		"/Users/Lag0s/src/koans/about_true_and_false.rb",
+		"/Users/Lag0s/src/koans/about_regular_expressions.rb",
+		"/Users/Lag0s/src/koans/about_constants.rb",
+		"/Users/Lag0s/src/koans/about_keyword_arguments.rb",
+		"/Users/Lag0s/src/koans/koans.watchr",
+		"/Users/Lag0s/src/koans/about_strings.rb",
+		"/Users/Lag0s/src/koans/about_hashes.rb",
+		"/Users/Lag0s/src/koans/about_array_assignment.rb",
+		"/Users/Lag0s/src/Jan-26/triangle_test.rb",
+		"/Users/Lag0s/src/Jan-26/triangle",
+		"/Users/Lag0s/src/koans/neo.rb",
+		"/Users/Lag0s/src/koans/test.rb",
+		"/Users/Lag0s/src/koans/.path_progress",
+		"/Users/Lag0s/src/koans/about_nil.rb",
+		"/Users/Lag0s/src/Jan-26/.travis.yml",
+		"/Users/Lag0s/src/koans/about_asserts.rb",
+		"/Users/Lag0s/src/koans/Rakefile",
+		"/Users/Lag0s/mic_check.rb",
+		"/Users/Lag0s/bin/mic_check.rb",
+		"/Users/Lag0s/Iron Yard/HTML Project 2/Project 1.html",
+		"/Users/Lag0s/Iron Yard/HTML Project 2/stylesheet.css",
+		"/Users/Lag0s/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/Lag0s/Iron Yard/HTML Project 1/HTML Project 1.sublime-project",
+		"/Users/Lag0s/Iron Yard/HTML Project 2/Project_Dos.sublime-project",
+		"/Users/Lag0s/Iron Yard/HTML Project 1/stylesheet.css",
+		"/Users/Lag0s/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/Lag0s/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/Lag0s/Desktop/Resume project.html",
+		"/Users/Lag0s/Desktop/Resume HTML/stylesheet.css"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"method",
+			"John",
+			"  def classification\n      if side1==side2 && side2==side3\n      :equilateral\n        elsif side1!=side2 && side2!=side3 && side1!=side3\n      :scalene\n        else\n      :isosceles   \n    end",
+			"b",
+			"super+alt+left",
+			"goto",
+			"files",
+			"div",
+			"head",
+			"fishtaco",
+			"23",
+			"213231",
+			"213231\n4123213\n4213123\n42131232\n4123132\n",
+			"fish_taco_breath",
+			"fish_taco_breathe",
+			"fish_tacos"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "Koans.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"prox",
+				"about_proxy_object_project.rb"
+			],
+			[
+				"to_str",
+				"about_to_str.rb"
+			],
+			[
+				"messa",
+				"about_message_passing.rb"
+			],
+			[
+				"class_me",
+				"about_class_methods.rb"
+			],
+			[
+				"scope",
+				"about_scope.rb"
+			],
+			[
+				"modules",
+				"about_modules.rb"
+			],
+			[
+				"inher",
+				"about_inheritance.rb"
+			],
+			[
+				"dic",
+				"about_dice_project.rb"
+			],
+			[
+				"dice",
+				"about_dice_project.rb"
+			],
+			[
+				"open",
+				"about_open_classes.rb"
+			],
+			[
+				"clas",
+				"about_classes.rb"
+			],
+			[
+				"scoring",
+				"about_scoring_project.rb"
+			],
+			[
+				"abou_sa",
+				"about_sandwich_code.rb"
+			],
+			[
+				"blocks",
+				"about_blocks.rb"
+			],
+			[
+				"ex",
+				"example_file.txt"
+			],
+			[
+				"iteration",
+				"about_iteration.rb"
+			],
+			[
+				"trina",
+				"triangle.rb"
+			],
+			[
+				"",
+				"about_triangle_project_2.rb"
+			],
+			[
+				"trian",
+				"about_triangle_project.rb"
+			],
+			[
+				"exc",
+				"about_exceptions.rb"
+			],
+			[
+				"tri",
+				"triangle.rb"
+			],
+			[
+				"about_triang_",
+				"about_triangle_project.rb"
+			],
+			[
+				"triang",
+				"about_triangle_project.rb"
+			],
+			[
+				"true",
+				"about_true_and_false.rb"
+			],
+			[
+				"control",
+				"about_control_statements.rb"
+			],
+			[
+				"constants",
+				"about_constants.rb"
+			],
+			[
+				"keyword",
+				"about_keyword_arguments.rb"
+			],
+			[
+				"metho",
+				"about_methods.rb"
+			],
+			[
+				"reg",
+				"about_regular_expressions.rb"
+			],
+			[
+				"regu",
+				"about_regular_expressions.rb"
+			],
+			[
+				"symbols",
+				"about_symbols.rb"
+			],
+			[
+				"hash",
+				"about_hashes.rb"
+			],
+			[
+				"strings",
+				"about_strings.rb"
+			],
+			[
+				"about_strings",
+				"about_strings.rb"
+			],
+			[
+				"about_array",
+				"about_array_assignment.rb"
+			],
+			[
+				"arra",
+				"about_arrays.rb"
+			],
+			[
+				"aboutob",
+				"about_objects.rb"
+			],
+			[
+				"about_regu",
+				"about_regular_expressions.rb"
+			],
+			[
+				"asserts",
+				"about_asserts.rb"
+			],
+			[
+				"htm",
+				"HTML Project 1.sublime-project"
+			],
+			[
+				"html",
+				"HTML Project 1.sublime-project"
+			],
+			[
+				"sty",
+				"Resume HTML/stylesheet.css"
+			],
+			[
+				"re",
+				"Resume project.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"~/src/Jan/29/Jan-29.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 209.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
